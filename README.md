@@ -13,7 +13,7 @@
 ---
 
 ### $ ~ whoami :woman_technologist:
-Hi! My name is Gabriela, I am a Computer Engineer from Valparaíso, Chile. 
+Hi! I am a Computer Engineer from Valparaíso, Chile. 
 - :shield: Pentester | Ethical Hacker | Cybersecurity Engineer
 - :joystick: I love spending my time playing in platforms such as TryHackMe or HackTheBox
 - :desktop_computer: I am looking to specialize in Cybersecurity, specially Offensive
