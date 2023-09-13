@@ -1,6 +1,7 @@
+
 <div id="header" align="center">
   
-  <img src="https://i.ibb.co/vk06fZy/x-Huntr3ss-Banner.png" alt="x-Huntr3ss-Banner" border="0">
+  ![image](https://github.com/xHuntr3ss/xHuntr3ss/assets/144957304/25011ee2-2f35-4a29-87d4-ddd18ef13126)
 
   <div id="badges">
     <a href="https://twitter.com/huntr3ssx">
