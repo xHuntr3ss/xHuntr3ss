@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   
-  ![image](https://github.com/xHuntr3ss/xHuntr3ss/assets/144957304/25011ee2-2f35-4a29-87d4-ddd18ef13126)
+  ![image](https://github.com/xHuntr3ss/xHuntr3ss/blob/55b9a803fb8e5067f70227029d498e91a017f5c2/xHuntr3ss%20Banner%202.png)
 
   <div id="badges">
     <a href="https://twitter.com/huntr3ssx">
