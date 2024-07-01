@@ -41,6 +41,10 @@ Hi! I am a Computer Engineer from Valparaíso, Chile.
 
 <div id="hack_tools">
   <img src="https://img.shields.io/badge/Burpsuite-020111?style=flat-squre&logo=square&logoColor=white" alt="Burpsuite Badge"/>
+  <img src="https://img.shields.io/badge/Nmap-020111?style=flat-squre&logo=square&logoColor=white" alt="Nmap Badge"/>
+  <img src="https://img.shields.io/badge/Nessus-020111?style=flat-squre&logo=square&logoColor=white" alt="Nessus Badge"/>
+  <img src="https://img.shields.io/badge/Nuclei-020111?style=flat-squre&logo=square&logoColor=white" alt="Nuclei Badge"/>
+  <img src="https://img.shields.io/badge/Crowdstrike-020111?style=flat-squre&logo=square&logoColor=white" alt="Crodstrike Badge"/>
 </div>
 
 <div id="tools">
